@@ -1,4 +1,6 @@
 # mySQL_tasks-db
+[Assignment 1 - MySQL course at hackYourFuture](https://github.com/HackYourFuture-CPH/databases/tree/master/lesson1)
+
 ```
 -- 1 Find out how many tasks are in the task table
 SELECT
